@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikolaoskokkos
 - 👀 I’m interested in research
 - 🌱 I’m currently learning mongodb
-- 💞️ I’m looking to collaborate on Iliad, Ecoscope, Otters projects
+- 💞️ I’m looking to collaborate on Eye4Water, Iliad, Ecoscope, Otters projects
 - 📫 How to reach me nikolaoskokkos@gmail.com 
 
 <!---
